@@ -25,7 +25,7 @@ SECRET_KEY = 'awk_fu+8g)xgk(x*p$h&bvo^ftu(5gn54guhp7%&r7w%r+$#kj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','timpurnell.pythonanywhere.com',]
 
 
 # Application definition
